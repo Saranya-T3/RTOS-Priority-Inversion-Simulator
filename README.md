@@ -2,6 +2,10 @@
 
 A full-stack web application that simulates priority inversion in real-time operating systems and demonstrates how priority inheritance helps mitigate the problem through interactive scheduling visualizations.
 
+## Live Demo
+
+**Deployed Application:** [Click here to view the live project](https://prisync.dprs.workers.dev/)
+
 ## Overview
 
 Priority inversion occurs when a high-priority process is blocked waiting for a shared resource held by a low-priority process, while medium-priority processes prevent the low-priority process from executing.
